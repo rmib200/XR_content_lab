@@ -327,6 +327,7 @@ MonoBehaviour:
   sexoField: {fileID: 0}
   ciField: {fileID: 0}
   dptoField: {fileID: 0}
+  textoBusqueda: {fileID: 1079958211}
   busco: {fileID: 759624402}
   resultado: 
   guardar: 0
@@ -709,15 +710,15 @@ RectTransform:
   m_GameObject: {fileID: 759624400}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.22927, y: 3.3200583, z: 1}
+  m_LocalScale: {x: 3.3500447, y: 3.3200583, z: 1}
   m_Children: []
   m_Father: {fileID: 386225429}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: -19.636108}
-  m_SizeDelta: {x: 420.8942, y: 56.7799}
+  m_AnchoredPosition: {x: 7.3846, y: -204.3607}
+  m_SizeDelta: {x: 433.0639, y: 156.9954}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &759624402
 MonoBehaviour:
@@ -752,7 +753,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: fdffffffffffffffffffffffffffffsdafsssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddd
+  m_Text: 'fdffffffffffffffffffffffffffffsdafsssssssssssssssssssssssssssssddddddddddddddddddddddddddddddddddd
+
+
+
+
+
+
+
+'
 --- !u!222 &759624403
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -818,7 +827,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CI
+  m_text: 'Nombre:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
