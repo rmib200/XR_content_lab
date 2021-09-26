@@ -8,7 +8,9 @@ public class PlayerWeapon : MonoBehaviour
     public Transform bulletSpawn;
     public float bulletSpeed=30;
     public float lifeTime=5;
-    public float contador=0;
+
+
+  
 
     #region Monobehaviour API
 
@@ -22,14 +24,11 @@ public class PlayerWeapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print(bulletSpawn.position);
-        if(contador<=7){
-            if(Input.GetKeyDown(KeyCode.Space)){
+
+        if(Input.GetKeyDown(KeyCode.Space)){
             Fire();
-            contador+=1;
-        }
-        }else{
-            print("Limite de balas alcanzadas!!!");
+
+
         }
        
         

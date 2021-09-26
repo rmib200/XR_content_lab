@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 4403772877052568207}
   - component: {fileID: 4403772877052568201}
   - component: {fileID: 4403772877052568200}
-  - component: {fileID: 1121156771225649056}
+  - component: {fileID: -2880523750916562596}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -58,7 +58,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4403772877052568206}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.2505546, y: 0.26530647, z: -3.7183628}
+  m_LocalPosition: {x: 1.2505546, y: 0.26530647, z: -3.836}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4403772875856056422}
@@ -90,9 +90,9 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.12567158
+  m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &1121156771225649056
+--- !u!114 &-2880523750916562596
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -104,6 +104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb7f9ae0722a5f34b8492bfcc7325210, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  puntaje: 0
 --- !u!1 &4403772877127816166
 GameObject:
   m_ObjectHideFlags: 0
@@ -131,7 +132,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4403772877127816166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.94, y: 0.65, z: 4.91}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
   m_Children: []
   m_Father: {fileID: 4403772875856056422}
