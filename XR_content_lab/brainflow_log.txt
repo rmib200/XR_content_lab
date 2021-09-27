@@ -264,3 +264,265 @@
 [2021-09-12 21:16:05.954] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
 [2021-09-12 21:16:29.331] [board_logger] [trace] release session
 [2021-09-12 21:16:29.331] [board_logger] [trace] stop stream
+[2021-09-19 20:02:36.417] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:02:36.417] [board_logger] [trace] Board object created -1
+[2021-09-19 20:02:36.417] [board_logger] [trace] prepare session
+[2021-09-19 20:02:36.424] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:02:56.884] [board_logger] [trace] release session
+[2021-09-19 20:02:56.884] [board_logger] [trace] stop stream
+[2021-09-19 20:08:29.937] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:08:29.937] [board_logger] [trace] Board object created -1
+[2021-09-19 20:08:29.937] [board_logger] [trace] prepare session
+[2021-09-19 20:08:29.944] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:08:43.335] [board_logger] [trace] release session
+[2021-09-19 20:08:43.335] [board_logger] [trace] stop stream
+[2021-09-19 20:10:03.470] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:10:03.470] [board_logger] [trace] Board object created -1
+[2021-09-19 20:10:03.470] [board_logger] [trace] prepare session
+[2021-09-19 20:10:03.477] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:10:15.636] [board_logger] [trace] release session
+[2021-09-19 20:10:15.636] [board_logger] [trace] stop stream
+[2021-09-19 20:10:34.092] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:10:34.092] [board_logger] [trace] Board object created -1
+[2021-09-19 20:10:34.092] [board_logger] [trace] prepare session
+[2021-09-19 20:10:34.099] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:10:42.581] [board_logger] [trace] release session
+[2021-09-19 20:10:42.581] [board_logger] [trace] stop stream
+[2021-09-19 20:10:59.143] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:10:59.143] [board_logger] [trace] Board object created -1
+[2021-09-19 20:10:59.143] [board_logger] [trace] prepare session
+[2021-09-19 20:10:59.150] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:11:10.602] [board_logger] [trace] release session
+[2021-09-19 20:11:10.602] [board_logger] [trace] stop stream
+[2021-09-19 20:12:03.506] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:12:03.506] [board_logger] [trace] Board object created -1
+[2021-09-19 20:12:03.506] [board_logger] [trace] prepare session
+[2021-09-19 20:12:03.513] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:12:13.283] [board_logger] [trace] release session
+[2021-09-19 20:12:13.283] [board_logger] [trace] stop stream
+[2021-09-19 20:12:20.644] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:12:20.644] [board_logger] [trace] Board object created -1
+[2021-09-19 20:12:20.644] [board_logger] [trace] prepare session
+[2021-09-19 20:12:20.651] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:12:28.488] [board_logger] [trace] release session
+[2021-09-19 20:12:28.488] [board_logger] [trace] stop stream
+[2021-09-19 20:12:38.958] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:12:38.958] [board_logger] [trace] Board object created -1
+[2021-09-19 20:12:38.958] [board_logger] [trace] prepare session
+[2021-09-19 20:12:38.965] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:12:44.974] [board_logger] [trace] release session
+[2021-09-19 20:12:44.974] [board_logger] [trace] stop stream
+[2021-09-19 20:12:50.015] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:12:50.015] [board_logger] [trace] Board object created -1
+[2021-09-19 20:12:50.015] [board_logger] [trace] prepare session
+[2021-09-19 20:12:50.022] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:13:02.219] [board_logger] [trace] release session
+[2021-09-19 20:13:02.219] [board_logger] [trace] stop stream
+[2021-09-19 20:13:11.985] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:13:11.985] [board_logger] [trace] Board object created -1
+[2021-09-19 20:13:11.985] [board_logger] [trace] prepare session
+[2021-09-19 20:13:11.992] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:13:18.397] [board_logger] [trace] release session
+[2021-09-19 20:13:18.397] [board_logger] [trace] stop stream
+[2021-09-19 20:13:25.624] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:13:25.624] [board_logger] [trace] Board object created -1
+[2021-09-19 20:13:25.624] [board_logger] [trace] prepare session
+[2021-09-19 20:13:25.631] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:13:32.477] [board_logger] [trace] release session
+[2021-09-19 20:13:32.477] [board_logger] [trace] stop stream
+[2021-09-19 20:13:45.426] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:13:45.426] [board_logger] [trace] Board object created -1
+[2021-09-19 20:13:45.426] [board_logger] [trace] prepare session
+[2021-09-19 20:13:45.433] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:13:55.070] [board_logger] [trace] release session
+[2021-09-19 20:13:55.070] [board_logger] [trace] stop stream
+[2021-09-19 20:16:49.322] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:16:49.323] [board_logger] [trace] Board object created -1
+[2021-09-19 20:16:49.323] [board_logger] [trace] prepare session
+[2021-09-19 20:16:49.329] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:16:49.337] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:16:49.337] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:17:12.900] [board_logger] [trace] release session
+[2021-09-19 20:17:12.900] [board_logger] [trace] stop stream
+[2021-09-19 20:25:16.212] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:25:16.212] [board_logger] [trace] Board object created -1
+[2021-09-19 20:25:16.212] [board_logger] [trace] prepare session
+[2021-09-19 20:25:16.219] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:25:26.338] [board_logger] [trace] release session
+[2021-09-19 20:25:26.338] [board_logger] [trace] stop stream
+[2021-09-19 20:25:33.310] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:25:33.310] [board_logger] [trace] Board object created -1
+[2021-09-19 20:25:33.310] [board_logger] [trace] prepare session
+[2021-09-19 20:25:33.317] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:25:33.325] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:25:33.325] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:25:44.206] [board_logger] [trace] release session
+[2021-09-19 20:25:44.206] [board_logger] [trace] stop stream
+[2021-09-19 20:26:07.104] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:26:07.104] [board_logger] [trace] Board object created -1
+[2021-09-19 20:26:07.104] [board_logger] [trace] prepare session
+[2021-09-19 20:26:07.111] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:26:07.118] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:26:07.119] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:26:15.943] [board_logger] [trace] release session
+[2021-09-19 20:26:15.943] [board_logger] [trace] stop stream
+[2021-09-19 20:27:24.423] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:27:24.423] [board_logger] [trace] Board object created -1
+[2021-09-19 20:27:24.423] [board_logger] [trace] prepare session
+[2021-09-19 20:27:24.430] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:27:24.438] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:27:24.438] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:27:42.184] [board_logger] [trace] release session
+[2021-09-19 20:27:42.184] [board_logger] [trace] stop stream
+[2021-09-19 20:29:16.908] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:29:16.908] [board_logger] [trace] Board object created -1
+[2021-09-19 20:29:16.908] [board_logger] [trace] prepare session
+[2021-09-19 20:29:16.915] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:29:16.923] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:29:16.923] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:29:24.955] [board_logger] [trace] release session
+[2021-09-19 20:29:24.955] [board_logger] [trace] stop stream
+[2021-09-19 20:32:10.959] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:32:10.959] [board_logger] [trace] Board object created -1
+[2021-09-19 20:32:10.959] [board_logger] [trace] prepare session
+[2021-09-19 20:32:10.966] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:32:10.974] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:32:10.974] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:32:28.395] [board_logger] [trace] release session
+[2021-09-19 20:32:28.395] [board_logger] [trace] stop stream
+[2021-09-19 20:32:44.199] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:32:44.199] [board_logger] [trace] Board object created -1
+[2021-09-19 20:32:44.199] [board_logger] [trace] prepare session
+[2021-09-19 20:32:44.205] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:32:44.214] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:32:44.214] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:33:11.480] [board_logger] [trace] release session
+[2021-09-19 20:33:11.480] [board_logger] [trace] stop stream
+[2021-09-19 20:33:19.136] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:33:19.136] [board_logger] [trace] Board object created -1
+[2021-09-19 20:33:19.136] [board_logger] [trace] prepare session
+[2021-09-19 20:33:19.143] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:33:19.151] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:33:19.151] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:33:31.202] [board_logger] [trace] release session
+[2021-09-19 20:33:31.202] [board_logger] [trace] stop stream
+[2021-09-19 20:33:51.656] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:33:51.656] [board_logger] [trace] Board object created -1
+[2021-09-19 20:33:51.656] [board_logger] [trace] prepare session
+[2021-09-19 20:33:51.663] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:33:51.671] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:33:51.671] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:33:52.270] [board_logger] [trace] release session
+[2021-09-19 20:33:52.270] [board_logger] [trace] stop stream
+[2021-09-19 20:33:55.384] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:33:55.384] [board_logger] [trace] Board object created -1
+[2021-09-19 20:33:55.384] [board_logger] [trace] prepare session
+[2021-09-19 20:33:55.390] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 20:33:55.398] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 20:33:55.398] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 20:34:09.323] [board_logger] [trace] release session
+[2021-09-19 20:34:09.323] [board_logger] [trace] stop stream
+[2021-09-19 21:11:48.391] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 21:11:48.391] [board_logger] [trace] Board object created -1
+[2021-09-19 21:11:48.391] [board_logger] [trace] prepare session
+[2021-09-19 21:11:48.399] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 21:11:48.407] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 21:11:48.407] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 21:12:06.191] [board_logger] [trace] release session
+[2021-09-19 21:12:06.191] [board_logger] [trace] stop stream
+[2021-09-19 21:13:09.801] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 21:13:09.802] [board_logger] [trace] Board object created -1
+[2021-09-19 21:13:09.802] [board_logger] [trace] prepare session
+[2021-09-19 21:13:09.809] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-19 21:13:09.820] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-19 21:13:09.820] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-19 21:14:06.999] [board_logger] [trace] release session
+[2021-09-19 21:14:06.999] [board_logger] [trace] stop stream
+[2021-09-26 18:36:25.801] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 18:36:25.802] [board_logger] [trace] Board object created -1
+[2021-09-26 18:36:25.802] [board_logger] [trace] prepare session
+[2021-09-26 18:36:25.809] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 18:36:25.817] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 18:36:25.817] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-26 18:36:38.685] [board_logger] [trace] release session
+[2021-09-26 18:36:38.685] [board_logger] [trace] stop stream
+[2021-09-26 19:15:12.725] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:15:12.725] [board_logger] [trace] Board object created -1
+[2021-09-26 19:15:12.725] [board_logger] [trace] prepare session
+[2021-09-26 19:15:12.732] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:15:12.740] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:15:12.740] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-26 19:15:21.910] [board_logger] [trace] release session
+[2021-09-26 19:15:21.910] [board_logger] [trace] stop stream
+[2021-09-26 19:16:00.416] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:16:00.416] [board_logger] [trace] Board object created -1
+[2021-09-26 19:16:00.416] [board_logger] [trace] prepare session
+[2021-09-26 19:16:00.423] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:16:00.431] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:16:00.431] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-26 19:16:40.701] [board_logger] [trace] release session
+[2021-09-26 19:16:40.701] [board_logger] [trace] stop stream
+[2021-09-26 19:21:12.287] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:21:12.287] [board_logger] [trace] Board object created -1
+[2021-09-26 19:21:12.287] [board_logger] [trace] prepare session
+[2021-09-26 19:21:12.294] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:21:12.302] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:21:12.302] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-26 19:21:18.821] [board_logger] [trace] release session
+[2021-09-26 19:21:18.821] [board_logger] [trace] stop stream
+[2021-09-26 19:22:31.185] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:22:31.185] [board_logger] [trace] Board object created -1
+[2021-09-26 19:22:31.185] [board_logger] [trace] prepare session
+[2021-09-26 19:22:31.192] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:22:31.200] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:22:31.200] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-09-26 19:22:36.825] [board_logger] [trace] release session
+[2021-09-26 19:22:36.825] [board_logger] [trace] stop stream
+[2021-09-26 19:25:41.384] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:25:41.385] [board_logger] [trace] Board object created -1
+[2021-09-26 19:25:41.385] [board_logger] [trace] prepare session
+[2021-09-26 19:25:41.392] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:25:55.430] [board_logger] [trace] release session
+[2021-09-26 19:25:55.430] [board_logger] [trace] stop stream
+[2021-09-26 19:31:20.602] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:31:20.602] [board_logger] [trace] Board object created -1
+[2021-09-26 19:31:20.602] [board_logger] [trace] prepare session
+[2021-09-26 19:31:20.609] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:31:27.421] [board_logger] [trace] release session
+[2021-09-26 19:31:27.421] [board_logger] [trace] stop stream
+[2021-09-26 19:37:46.409] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:37:46.409] [board_logger] [trace] Board object created -1
+[2021-09-26 19:37:46.409] [board_logger] [trace] prepare session
+[2021-09-26 19:37:46.416] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:37:55.251] [board_logger] [trace] release session
+[2021-09-26 19:37:55.251] [board_logger] [trace] stop stream
+[2021-09-26 19:39:38.049] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:39:38.049] [board_logger] [trace] Board object created -1
+[2021-09-26 19:39:38.049] [board_logger] [trace] prepare session
+[2021-09-26 19:39:38.056] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:39:58.988] [board_logger] [trace] release session
+[2021-09-26 19:39:58.988] [board_logger] [trace] stop stream
+[2021-09-26 19:40:15.199] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:40:15.199] [board_logger] [trace] Board object created -1
+[2021-09-26 19:40:15.199] [board_logger] [trace] prepare session
+[2021-09-26 19:40:15.206] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:40:15.823] [board_logger] [trace] release session
+[2021-09-26 19:40:15.823] [board_logger] [trace] stop stream
+[2021-09-26 19:40:18.331] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:40:18.331] [board_logger] [trace] Board object created -1
+[2021-09-26 19:40:18.331] [board_logger] [trace] prepare session
+[2021-09-26 19:40:18.337] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:40:47.126] [board_logger] [trace] release session
+[2021-09-26 19:40:47.126] [board_logger] [trace] stop stream
+[2021-09-26 19:41:32.534] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:41:32.534] [board_logger] [trace] Board object created -1
+[2021-09-26 19:41:32.534] [board_logger] [trace] prepare session
+[2021-09-26 19:41:32.541] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:41:40.824] [board_logger] [trace] release session
+[2021-09-26 19:41:40.824] [board_logger] [trace] stop stream
+[2021-09-26 19:44:19.961] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-09-26 19:44:19.961] [board_logger] [trace] Board object created -1
+[2021-09-26 19:44:19.961] [board_logger] [trace] prepare session
+[2021-09-26 19:44:19.968] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-09-26 19:47:37.134] [board_logger] [trace] release session
+[2021-09-26 19:47:37.134] [board_logger] [trace] stop stream

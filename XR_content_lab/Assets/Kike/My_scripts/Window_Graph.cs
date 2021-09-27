@@ -18,6 +18,8 @@ public class Window_Graph : MonoBehaviour
 
     List<int> dt = new List<int>() { };
 
+    public static double[,] data;
+    
     private void Awake() {
         graphContainer = transform.Find("graphContainer").GetComponent<RectTransform>();
         //CreateCircle(new Vector2(200,100));
@@ -54,8 +56,10 @@ public class Window_Graph : MonoBehaviour
             return;
         }
         int number_of_data_points = sampling_rate * 4;
-        double[,] data = board_shim.get_current_board_data(number_of_data_points);
+        //double[,] data = board_shim.get_current_board_data(number_of_data_points);
+        data = board_shim.get_current_board_data(number_of_data_points);
         // check https://brainflow.readthedocs.io/en/stable/index.html for api ref and more code samples
+        
         Debug.Log("Num elements: " + data.GetLength(1));
         
         for (int i=0;i<data.GetLength(0);i++){
@@ -102,8 +106,8 @@ public class Window_Graph : MonoBehaviour
 
     private void ShowGraph(List<int> valueList){
         float graphHeight = graphContainer.sizeDelta.y;
-        float yMaximum = 90f;
-        float xSize = 20f;
+        float yMaximum = 160f;
+        float xSize = 13f;
 
         GameObject lastCircleGameObject = null;
 

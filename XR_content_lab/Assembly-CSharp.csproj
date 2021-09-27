@@ -46,6 +46,7 @@
      <Compile Include="Assets\Kike\CodeMonkey\Utils\FunctionUpdater.cs" />
      <Compile Include="Assets\Kike\CodeMonkey\Utils\FunctionTimer.cs" />
      <Compile Include="Assets\Kike\Scripts\SimpleCameraController.cs" />
+     <Compile Include="Assets\Kike\My_scripts\Window_Graph_1.cs" />
      <Compile Include="Assets\Kike\CodeMonkey\Utils\UI_Sprite.cs" />
      <Compile Include="Assets\Kike\CodeMonkey\Utils\UI_TextComplex.cs" />
      <Compile Include="Assets\Kike\CodeMonkey\Utils\Button_Sprite.cs" />
@@ -60,6 +61,7 @@
      <Compile Include="Assets\Kike\My_scripts\Prueba.cs" />
      <Compile Include="Assets\Kike\CodeMonkey\CMDebug.cs" />
      <Compile Include="Assets\Kike\CodeMonkey\Utils\FunctionPeriodic.cs" />
+     <Compile Include="Assets\Kike\My_scripts\Window_Graph_2.cs" />
      <None Include="Assets\Kike\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\Kike\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Kike\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
