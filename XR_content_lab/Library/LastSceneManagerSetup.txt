@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Karen/Scenes/Disp.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Karen/Scenes/holi.unity
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
