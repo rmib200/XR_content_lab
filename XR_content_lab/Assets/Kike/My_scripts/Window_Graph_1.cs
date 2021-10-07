@@ -19,6 +19,23 @@ public class Window_Graph_1 : MonoBehaviour
 
     private int sampling_rate = 0;
 
+
+    //private float waitTime = 500.0f;
+    //private float scrollBar = 50.0f;
+    //private float timer = 0.0f;
+
+    //private float waitTime = 500.0f;
+    //private float scrollBar = 0.5f;
+    //private float timer = 0.0f;
+
+    private float waitTime = .1f;
+    private float timer = 0.0f;
+    //private float visualTime = 0.0f;
+    //private int width, height;
+    //private float value = 10.0f;
+    private float scrollBar = 1.0f;
+    //private float visualTime = 0.0f;
+
     List<int> dt_1 = new List<int>() { };
 
     private void Awake() {
@@ -28,7 +45,7 @@ public class Window_Graph_1 : MonoBehaviour
         List<int> valueList = new List <int>(){10,56,56,45,30,22,17,15,13,17,25,37,40,36,33};
         //ShowGraph(valueList);
 
-        
+        Time.timeScale = scrollBar;
     }
     /*
     void Start(){
@@ -72,8 +89,28 @@ public class Window_Graph_1 : MonoBehaviour
         }
 
         //print(dt.GetLength());
-        ShowGraph(dt_1);
+        
+
+        timer += Time.deltaTime;
+        print("asdfasdfasdf"+timer);
+
+        
+
+        if (timer > waitTime)
+        {
+            //visualTime = timer;
+            timer = timer - waitTime;
+            Time.timeScale = scrollBar;
+            ShowGraph(dt_1);
+        }
         dt_1.Clear();
+        
+        
+        
+
+        
+
+        
         
         //graphContainer = transform.Find("graphContainer").GetComponent<RectTransform>();
         //print(data.GetLength(1));

@@ -51,6 +51,9 @@ public class Window_Graph : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //JUGAR CON LA LIBRERIA TIME
+        //TIME.DELTA.TIME
+        //Implementar tarea en 2D
         if (board_shim == null)
         {
             return;
