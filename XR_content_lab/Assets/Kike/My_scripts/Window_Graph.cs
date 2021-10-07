@@ -34,12 +34,18 @@ public class Window_Graph : MonoBehaviour
         {
             BoardShim.set_log_file("brainflow_log.txt");
             BoardShim.enable_dev_board_logger();
+            //BoardShim.serial_port = "COM3"; //PUERTO
 
             BrainFlowInputParams input_params = new BrainFlowInputParams();
+            //int board_id = (int)BoardIds.GANGLION_BOARD; //SYNTHETIC BOARD REPLACED
             int board_id = (int)BoardIds.SYNTHETIC_BOARD;
+            //input_params.serial_port = "COM3"; //Puerto
             board_shim = new BoardShim(board_id, input_params);
+        
             board_shim.prepare_session();
+            
             board_shim.start_stream(450000, "file://brainflow_data.csv:w");
+            
             sampling_rate = BoardShim.get_sampling_rate(board_id);
             Debug.Log("Brainflow streaming was started");
         }
@@ -66,7 +72,7 @@ public class Window_Graph : MonoBehaviour
         Debug.Log("Num elements: " + data.GetLength(1));
         
         for (int i=0;i<data.GetLength(0);i++){
-            dt.Add((int)data[10,i]);    
+            dt.Add((int)data[1,i]);    
         }
 
         //print(dt.GetLength());
@@ -109,8 +115,8 @@ public class Window_Graph : MonoBehaviour
 
     private void ShowGraph(List<int> valueList){
         float graphHeight = graphContainer.sizeDelta.y;
-        float yMaximum = 160f;
-        float xSize = 13f;
+        float yMaximum = 600f;
+        float xSize = 30f;
 
         GameObject lastCircleGameObject = null;
 

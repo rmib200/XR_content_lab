@@ -68,7 +68,7 @@ public class Window_Graph_2 : MonoBehaviour
         Debug.Log("Num elements: " + data.GetLength(1));
         
         for (int i=0;i<data.GetLength(0);i++){
-            dt_1.Add((int)data[8,i]);    
+            dt_1.Add((int)data[3,i]);    
         }
 
         //print(dt.GetLength());
