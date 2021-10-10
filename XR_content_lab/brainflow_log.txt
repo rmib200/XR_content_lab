@@ -602,6 +602,7 @@
 [2021-10-07 00:42:13.272] [board_logger] [error] Board with id -1 and the same config already exists
 [2021-10-07 00:42:27.836] [board_logger] [trace] release session
 [2021-10-07 00:42:27.836] [board_logger] [trace] stop stream
+<<<<<<< Updated upstream
 [2021-10-07 12:18:23.889] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
 [2021-10-07 12:18:23.903] [board_logger] [trace] Board object created -1
 [2021-10-07 12:18:23.903] [board_logger] [trace] prepare session
@@ -844,3 +845,21 @@
 [2021-10-10 17:10:40.650] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
 [2021-10-10 17:10:55.881] [board_logger] [trace] release session
 [2021-10-10 17:10:55.881] [board_logger] [trace] stop stream
+=======
+[2021-10-07 00:46:27.886] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-10-07 00:46:27.887] [board_logger] [trace] Board object created -1
+[2021-10-07 00:46:27.887] [board_logger] [trace] prepare session
+[2021-10-07 00:46:27.893] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-10-07 00:46:27.902] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-10-07 00:46:27.902] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-10-07 00:47:20.042] [board_logger] [trace] release session
+[2021-10-07 00:47:20.042] [board_logger] [trace] stop stream
+[2021-10-10 17:05:55.713] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-10-10 17:05:55.714] [board_logger] [trace] Board object created -1
+[2021-10-10 17:05:55.714] [board_logger] [trace] prepare session
+[2021-10-10 17:05:55.720] [board_logger] [trace] File Streamer, file: brainflow_data.csv, mods: w
+[2021-10-10 17:05:55.729] [board_logger] [info] incoming json: {"file":"","ip_address":"","ip_port":0,"ip_protocol":0,"mac_address":"","other_info":"","serial_number":"","serial_port":"","timeout":0}
+[2021-10-10 17:05:55.729] [board_logger] [error] Board with id -1 and the same config already exists
+[2021-10-10 17:06:03.043] [board_logger] [trace] release session
+[2021-10-10 17:06:03.043] [board_logger] [trace] stop stream
+>>>>>>> Stashed changes
