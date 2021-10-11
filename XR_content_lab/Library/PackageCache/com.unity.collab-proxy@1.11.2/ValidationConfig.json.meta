@@ -1,6 +1,16 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:XR_content_lab/Library/PackageCache/com.unity.collab-proxy@1.11.2/ValidationConfig.json.meta
 guid: cb3c9f5ba9ced5e4b99de1b3dbd68d09
 TextScriptImporter:
+=======
+guid: 926da0026d6d65d4995930cb22eb2319
+DefaultImporter:
+>>>>>>> 0bcb3b17c36a3b8de36c0203b034c7964820ea9e:XR_content_lab/Assets/Karen/Scenes/Disp.unity.meta
+=======
+guid: cb3c9f5ba9ced5e4b99de1b3dbd68d09
+TextScriptImporter:
+>>>>>>> 0bcb3b17c36a3b8de36c0203b034c7964820ea9e
   externalObjects: {}
   userData: 
   assetBundleName: 

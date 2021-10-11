@@ -58,7 +58,11 @@ The following packages were updated:
   com.unity.test-framework from version 1.1.26 to 1.1.29
   com.unity.xr.oculus from version 1.9.1 to 1.10.0
 
+<<<<<<< HEAD
 === Sun Oct 10 18:15:54 2021
+=======
+=== Sun Oct 10 20:22:12 2021
+>>>>>>> 0bcb3b17c36a3b8de36c0203b034c7964820ea9e
 
 Packages were changed.
 Update Mode: updateDependencies
