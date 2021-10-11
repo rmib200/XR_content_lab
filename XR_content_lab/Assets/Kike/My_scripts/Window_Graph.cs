@@ -69,7 +69,7 @@ public class Window_Graph : MonoBehaviour
         data = board_shim.get_current_board_data(number_of_data_points);
         // check https://brainflow.readthedocs.io/en/stable/index.html for api ref and more code samples
         
-        Debug.Log("Num elements: " + data.GetLength(1));
+        //Debug.Log("Num elements: " + data.GetLength(1));
         
         for (int i=0;i<data.GetLength(0);i++){
             dt.Add((int)data[1,i]);    

@@ -82,7 +82,7 @@ public class Window_Graph_1 : MonoBehaviour
         int number_of_data_points = sampling_rate * 4;
         double[,] data = Window_Graph.data;
         // check https://brainflow.readthedocs.io/en/stable/index.html for api ref and more code samples
-        Debug.Log("Num elements: " + data.GetLength(1));
+        //Debug.Log("Num elements: " + data.GetLength(1));
         
         for (int i=0;i<data.GetLength(0);i++){
             dt_1.Add((int)data[2,i]);    
@@ -92,7 +92,7 @@ public class Window_Graph_1 : MonoBehaviour
         
 
         timer += Time.deltaTime;
-        print("asdfasdfasdf"+timer);
+        //print("asdfasdfasdf"+timer);
 
         
 
@@ -150,8 +150,8 @@ public class Window_Graph_1 : MonoBehaviour
 
     private void ShowGraph(List<int> valueList){
         float graphHeight = graphContainer.sizeDelta.y;
-        float yMaximum = 160f;
-        float xSize = 13f;
+        float yMaximum = 600f;
+        float xSize = 30f;
 
         GameObject lastCircleGameObject = null;
 
